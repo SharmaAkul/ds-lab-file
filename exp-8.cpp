@@ -1,3 +1,6 @@
+/* Q. write a program to accept N numbers in array and then sort the array using insertion sort .then accept a number from user
+and insert it in the array according to sequential order*/
+
 #include<iostream>
 using namespace std;
 
