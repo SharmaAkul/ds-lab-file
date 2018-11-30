@@ -1,3 +1,4 @@
+/* Q. write a rogram to accept N number in array and them sort using quick sort*/
 #include <iostream>
 
 using namespace std;
