@@ -1,3 +1,13 @@
+/* Q. write a menu driven program that implements the following operation on a -:
+binary search tree:
+ a. insert a new element
+ b. delete an existing element.
+ c. traversing the tree
+    1.pre order
+    2.in-order
+    3.post order
+    */
+
 #include<iostream>
 #include<stdio.h>
 #include<cstdlib>
