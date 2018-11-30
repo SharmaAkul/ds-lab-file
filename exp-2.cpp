@@ -1,3 +1,5 @@
+/* Q. write a programto accept N numbers from user and stores them in array.Then accept another number from user
+and search that using linear search.*/
 #include<iostream>
 using namespace std;
 
